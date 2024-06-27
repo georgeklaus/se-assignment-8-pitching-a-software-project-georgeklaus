@@ -11,9 +11,9 @@ Answer the following questions based on your understanding of how to pitch a sof
 
 1. **Understanding the Audience : Why is it important to understand your audience when pitching a software project? How can you tailor your pitch to different types of stakeholders (e.g., investors, technical team, customers)?**
 
- Understanding your audience allows you to write your message to their specific interests, concerns, and level of understanding. A well-targeted pitch can effectively communicate the value and potential of your project, making it more likely to gain support, funding, or adoption. It is important to understand your audience for relevance, clarity, and engagement.
+ Understanding your audience allows someone to write your message to their specific interests, concerns, and level of understanding. A well-targeted pitch can effectively communicate the value and potential of your project, making it more likely to gain support, funding, or adoption. It is important to understand your audience for relevance, clarity, and engagement (Bloomer & Croft, 1997)
 
- It is important to Tailor Your Pitch to Different Stakeholders such as the investors; for instace, 
+ It is important to Tailor the Pitch to Different Stakeholders such as the investors; for instace,
 
  -Focus: ROI, market potential, scalability, and competitive advantage.
 
@@ -106,7 +106,7 @@ Example: "In a recent pilot program, 85% of participating SMBs reported a signif
 
 5. **Unique Selling Proposition (USP) : Explain the concept of a Unique Selling Proposition (USP). How do you identify and articulate your software project's USP in your pitch?**
 
- A Unique Selling Proposition (USP) is a specific benefit or feature that distinguishes your product or service from its competitors. It's what makes your offering unique and compelling to your target audience. A strong USP highlights the key aspects of your product that are most attractive to potential customers and conveys why they should choose your solution over others.
+ A Unique Selling Proposition (USP) is a specific benefit or feature that distinguishes your product or service from its competitors. It's what makes your offering unique and compelling to your target audience. A strong USP highlights the key aspects of your product that are most attractive to potential customers and conveys why they should choose your solution over others (Williams, 2020).
 
  Identifying and Articulating Your Software Project's USP
 
@@ -146,7 +146,7 @@ Example: "Our target market includes SMBs in retail, e-commerce, and warehousing
 
  -Customer Acquisition Strategy - Describe how you plan to attract and retain customers Include marketing channels, sales strategies, and customer retention plans.
 
- -Competitive Analysis - Compare your business model with competitors to highlight your advantages. Focus on how your approach offers better value or addresses market gaps.
+ -Competitive Analysis - Compare your business model with competitors to highlight your advantages. Focus on how your approach offers better value or addresses market gaps (Bock, 2018)
 
  **Benefits of a Well-Defined Business Model**
 
@@ -174,7 +174,7 @@ What to Include in the Implementation Plan Section
 
  -Deployment: Detail the process for deploying the software to production, including any staging environments.
 
- -Maintenance and Support: Describe plans for ongoing support, bug fixes, and feature updates.
+ -Maintenance and Support: Describe plans for ongoing support, bug fixes, and feature updates (Lau, 2003).
 
  b. Timeline and Milestones - A timeline for each phase of the project, highlighting key milestones and deliverables.
 
@@ -239,7 +239,7 @@ Example:
 
 10. **Call to Action : What is a call to action in the context of a software project pitch? Provide examples of effective calls to action that can be used to close your pitch.**
 
- A call to action (CTA) in the context of a software project pitch is a clear and compelling directive that encourages your audience, typically potential investors or stakeholders, to take a specific action following your presentation. 
+ A call to action (CTA) in the context of a software project pitch is a clear and compelling directive that encourages your audience, typically potential investors or stakeholders, to take a specific action following your presentation (Soorjoo, 2012)
 
  Its purpose is to motivate your audience to engage further with your project, whether it be through funding, partnership, or other forms of support. 
 
@@ -257,10 +257,26 @@ Example:
 
  "Invest in InventoryMaster today and be part of a high-growth opportunity in the SMB market. Contact us to receive our detailed financial projections and business plan."
 
+**References**
 
+Bloomer, S., & Croft, R. (1997). Pitching usability to your organization. Interactions, 4(6), 18-26.
 
+https://www.betterup.com/blog/problem-statement#:~:text=A%20problem%20statement%20is%20a,awareness%20and%20stimulate%20creative%20thinking.
 
- Submission Guidelines:
+https://www.coursera.org/articles/market-analysis
+
+Williams-Oerberg, E. (2020). A Unique Selling Proposition (USP) in Ladakh. Buddhist Tourism in Asia, 227.
+
+https://ppp-certification.com/ppp-certification-guide/7-assessing-technical-feasibility
+
+Bock, A. J. (2018). The business model book: Design, build and adapt business ideas that drive business growth. Pearson UK.
+
+Lau, L. K. (2003). Developing a successful implementation plan for ERP: Issues and challenges. Proceedings of the International Association for Computer Information Systems, 223-229.
+
+Soorjoo, M. (2012). Here's the pitch: How to pitch your business to anyone, get funded, and win clients. John Wiley & Sons.
+
+Submission Guidelines:
+
 
 - Your answers should be well-structured, concise, and to the point.
 - Provide real-world examples or case studies wherever possible.
